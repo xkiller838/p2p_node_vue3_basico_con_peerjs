@@ -32,7 +32,7 @@ npm run dev -- --host
 
 ![img-5](https://user-images.githubusercontent.com/33810066/225123968-42c52171-d368-4bb5-9d85-c667b71cd821.png)
 
--Mensajes entre nodos se veria de esta manera dialogo entre nodo 1 y nodo 2 
+-Mensajes entre nodos se veria de esta manera dialogo entre nodo 1 y nodo 2 no tiene ningun tipo de diseño html y css  esta en su version mas basica.
 
 ![img-8](https://user-images.githubusercontent.com/33810066/225126095-ad2b90ab-064d-4965-a5ec-f8416d3f135a.png)
 
