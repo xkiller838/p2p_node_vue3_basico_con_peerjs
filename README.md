@@ -25,7 +25,7 @@ npm run dev -- --host
 
 ![img-3](https://user-images.githubusercontent.com/33810066/225122481-356b4138-be2b-460f-93bc-a083989de526.png)
 
--Para conectarlos entre si debe proporcionar el di que se genera en la vista del template resaltado en rojo
+-Para conectarlos entre si debe proporcionar el id que se genera en la vista del template resaltado en rojo
 
 ![img-4](https://user-images.githubusercontent.com/33810066/225122940-94e1781d-5d61-4847-abf5-f99178573926.png)
 
