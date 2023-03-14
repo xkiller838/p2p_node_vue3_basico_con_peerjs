@@ -28,3 +28,13 @@ npm run dev -- --host
 
 ![img-4](https://user-images.githubusercontent.com/33810066/225122940-94e1781d-5d61-4847-abf5-f99178573926.png)
 
+-Si la conexion entre ambos nodos es exitosa mostrara en consola del navegador el siguiente mensaje y en el input podras escribir mensajes entre los dos nodos
+
+![img-5](https://user-images.githubusercontent.com/33810066/225123968-42c52171-d368-4bb5-9d85-c667b71cd821.png)
+
+-Mensajes entre nodos se veria de esta manera dialogo entre nodo 1 y nodo 2 
+
+![img-8](https://user-images.githubusercontent.com/33810066/225126095-ad2b90ab-064d-4965-a5ec-f8416d3f135a.png)
+
+
+
