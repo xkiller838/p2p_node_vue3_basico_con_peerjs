@@ -4,6 +4,7 @@
 npm run dev
 ~~~
 - si el codigo compila bien al ejecutar el comando y conectar los demas en node y los comandos de los nodos debera aparcer en la consola de vs code la siguiente imagen
+- Cada que se actualiza la web se cambian los id de conexion por lo tanto deben volverse a agregar los nodos para hacer la conexion lo que permite que los nuevos id se reflejen en la consola de vs code.
 
 ![img-1](https://user-images.githubusercontent.com/33810066/225120937-0b6b5205-7606-455c-85e5-b0bde322ae94.png)
 
