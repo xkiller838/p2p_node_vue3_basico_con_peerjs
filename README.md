@@ -15,7 +15,7 @@ npm run dev
 npm run dev -- --host
 ~~~
 
-![img-2](https://user-images.githubusercontent.com/33810066/225121653-5fd1b32a-b730-4c02-8a44-fe3e2f5e205c.png)
+![img-2](https://user-images.githubusercontent.com/33810066/225771622-65a3f8f9-9bb1-4b0d-acc7-5631fc4d4916.png)
 
 ### Se abre proyecto en vue nodo_2_vue y se ejecuta el proyecto con el siguiente comando 
 ~~~
@@ -23,19 +23,18 @@ npm run dev -- --host
 ~~~
 -En el segundo nodo conectado aparecera igual que el primero pero ejecutando en otro puerto
 
-![img-3](https://user-images.githubusercontent.com/33810066/225122481-356b4138-be2b-460f-93bc-a083989de526.png)
+![img-3](https://user-images.githubusercontent.com/33810066/225771778-579c3549-a4c2-41dd-87d9-ccea50f1fa25.png)
 
 -Para conectarlos entre si debe proporcionar el id que se genera en la vista del template resaltado en rojo
 
-![img-4](https://user-images.githubusercontent.com/33810066/225122940-94e1781d-5d61-4847-abf5-f99178573926.png)
+![img-4](https://user-images.githubusercontent.com/33810066/225771903-f3ac52af-f440-4542-a1a3-2e84fdbe2280.png)
 
 -Si la conexion entre ambos nodos es exitosa mostrara en consola del navegador el siguiente mensaje y en el input podras escribir mensajes entre los dos nodos
 
-![img-5](https://user-images.githubusercontent.com/33810066/225123968-42c52171-d368-4bb5-9d85-c667b71cd821.png)
+![img-5](https://user-images.githubusercontent.com/33810066/225772044-5c53a3fe-5332-4e8b-9022-b94c5b631f63.png)
 
 -Mensajes entre nodos se veria de esta manera dialogo entre nodo 1 y nodo 2 no tiene ningun tipo de diseño html y css  esta en su version mas basica.
 
-![img-8](https://user-images.githubusercontent.com/33810066/225126095-ad2b90ab-064d-4965-a5ec-f8416d3f135a.png)
-
+![img-6](https://user-images.githubusercontent.com/33810066/225772237-abc6497f-2872-4c68-8137-ab430c4bd23d.png)
 
 
